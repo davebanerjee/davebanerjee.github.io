@@ -45,7 +45,9 @@ disqus: davebanerjee-github-io
 
 
 # Build settings
-theme: jekyll-theme-hydejack
+# I ran into issues with loading the theme on github pages. https://stackoverflow.com/questions/70654418/github-pages-build-error-the-jekyll-theme-hydejack-theme-could-not-be-found
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
   - jekyll-avatar
