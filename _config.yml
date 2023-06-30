@@ -18,12 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Dave's Website
+title: Dave Banerjee
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Junior @ Columbia University interested in philosophy, programming, physics, and more
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: daverbanerjee
@@ -41,7 +40,11 @@ author:
     instagram: daverbanerjee
     github:    davebanerjee
 disqus: davebanerjee-github-io
-    
+
+# Sidebar image
+accent_image: /lightbulb_backround.jpg
+# Color of links, selection and focus outline
+accent_color: rgb(79,177,186)
 
 
 # Build settings
@@ -54,10 +57,17 @@ plugins:
 
 # Front matter defaults
 defaults:
-  - scope:
+  - 
+    scope:
       type: posts
     values:
       comments: true
+  # - 
+  #   scope: 
+  #     path: hydejack/
+  #   values:
+  #     accent_image: 
+  #     accent_color: rgb(79,177,186)
 
 # Exclude from processing.
 # The following items will not be processed, by default.
