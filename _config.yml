@@ -46,6 +46,8 @@ accent_image: /lightbulb_backround.jpg
 # Color of links, selection and focus outline
 accent_color: rgb(79,177,186)
 
+favicon: /DB_logo_32x32.png
+
 
 # Build settings
 # I ran into issues with loading the theme on github pages. https://stackoverflow.com/questions/70654418/github-pages-build-error-the-jekyll-theme-hydejack-theme-could-not-be-found
