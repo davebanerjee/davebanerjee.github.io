@@ -21,7 +21,7 @@
 title: Dave Banerjee
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Junior @ Columbia University interested in philosophy, programming, physics, and more
+  Junior @ Columbia University Philosophy · Programming · Physics
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -35,18 +35,24 @@ author:
 
     This is located in _config.yml!
   social:
-    email:      dave.banerjee1@gmail.com
+    email:     dave.banerjee1@gmail.com
     linkedin:  daverbanerjee
     instagram: daverbanerjee
     github:    davebanerjee
 disqus: davebanerjee-github-io
 
 # Sidebar image
-accent_image: /lightbulb_backround.jpg
+accent_image: /lightbulb_background.jpg
 # Color of links, selection and focus outline
 accent_color: rgb(79,177,186)
 
 favicon: /DB_logo_32x32.png
+
+menu:
+  - title: About
+    url:   /about
+  - title: Blog
+    url:   /blog
 
 
 # Build settings
