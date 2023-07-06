@@ -1,0 +1,34 @@
+.dl-table {
+    a {
+      @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+        text-underline-offset: .8rem;
+      }
+      @supports not ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {
+        padding-bottom: .45rem;
+      }
+    }
+  
+    .btn, .gumroad-button  {
+      margin: 1rem 0;
+    }
+  }
+
+// Image centering. See https://lazyren.github.io/devlog/how-to-center-an-image-in-markdown.html
+
+.text-align-center {
+    text-align: center;
+}
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+// centers ALL images. May cause bugs. See https://lazyren.github.io/devlog/how-to-center-an-image-in-markdown.html
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+  
+  

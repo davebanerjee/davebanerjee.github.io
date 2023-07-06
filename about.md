@@ -1,6 +1,7 @@
 ---
 layout: about
 title:  About
+permalink: /about/
 ---
 
 My name is Dave Banerjee, and I am a third-year undergraduate studying computer science at Columbia University in New York. My academic interest interests lie in ethics, artificial intelligence, nanomaterials, and rationality, but these interests are always subject to change. I have a research background in physics, more specificially nanomaterials, and have worked in the field for three years. I have since pivoted away from physics towards philosophy and artificial intelligence. I think philosophy and artificial intelligence have a pretty good chance of equipping me with the tools to better tackle some of the world's most pressing problems. Some problems I care an awful lot about include factory farming, wild animal welfare, global governance,and existential risks.
