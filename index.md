@@ -6,7 +6,13 @@ layout: home
 cover: true
 ---
 
-Welcome! My name is **Dave Banerjee**, and I'm a third-year at Columbia University. On my blog, I write about philosophy, programming, physics, personal life, rationality, and whatever else I find interesting. I like rock climbing, EDM concerts, [reading](https://www.goodreads.com/user/show/136154707-dave-banerjee), thrifting, dancing, and folding laundry. You can learn more about me [here](/about). You can contact me at [dave.banerjee1@gmail.com](mailto:dave.banerjee1@gmail.com). Book a meeting with me [here](https://zcal.co/davebanerjee1).
+Welcome! I am a third-year at Columbia University studying computer science, and I care about making the world a better place, especially for non-human animals. My academic interests lie in ethics, artificial intelligence, nanomaterials, and rationality. I hope my studies better equip me to tackle issues like factory farming, wild animal welfare, global governance, and existential risks.
+
+You can learn more about me [here](/about).\
+You can contact me at [dave.banerjee1@gmail.com](mailto:dave.banerjee1@gmail.com).\
+You can book a meeting with me [here](https://zcal.co/davebanerjee1).
+
+---
 
 ![Dave hoodie portrait](/low_library_roof_cropped.jpg)
 
