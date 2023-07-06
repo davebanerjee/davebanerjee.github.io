@@ -49,6 +49,8 @@ accent_color: rgb(79,177,186)
 favicon: /DB_logo_32x32.png
 
 menu:
+  - title: Home
+    url:   /index
   - title: About
     url:   /about
   - title: Blog
