@@ -22,6 +22,7 @@ title: Dave Banerjee
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Junior @ Columbia University Philosophy · Programming · Physics
+logo: /Cropped Portrait at NYC Noodle Shop.jpg
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -31,9 +32,7 @@ author:
   name:  Dave Banerjee
   email: dave.banerjee1@gmail.com
   about: |
-    Hi, I'm Dave and this is my incomplete about page
-
-    This is located in _config.yml!
+    Dave Banerjee is a third-year at Columbia University studying computer science who cares about making the world a better place, especially for non-human animals. His academic interests lie in ethics, artificial intelligence, nanomaterials, and rationality. He hopes his studies better equip him to tackle issues like factory farming, wild animal welfare, global governance, and existential risks.
   social:
     email:     dave.banerjee1@gmail.com
     linkedin:  daverbanerjee
