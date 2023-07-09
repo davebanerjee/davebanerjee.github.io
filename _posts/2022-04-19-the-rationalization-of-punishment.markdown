@@ -1,9 +1,12 @@
 ---
 layout: post
 title:  "The Rationalization of Punishment"
+subtitle: Do criminals deserve to be punished?
 date:   2022-04-19 00:51:56 -0500
 permalink: /blog/the-rationalization-of-punishment/
 ---
+
+![Prisoner behind bars](/assets/the-rationalization-of-punishment/prisonerdeathpenalty_getty.webp)
 
 U.S. inmates are subjected to cruel forms of punishment. Most people defend the punishment of prisoners as a necessary evil to deter others from committing crimes and also to hold the prisoner responsible for their crimes. However, the punishment of prisoners is an unnecessary evil. Punishing prisoners does not serve as an effective method of crime deterrence. Furthermore, the U.S. prison system’s forms of punishment deny prisoners their human rights. Thus, we must advocate for humane prisons and the rights of prisoners. Building a prison system that focuses on rehabilitation rather than punishment is imperative. Unfortunately, the rationalization of punishing criminals runs deep in American society, which makes fighting for prisoners’ rights challenging.
 
@@ -13,7 +16,7 @@ U.S. inmates are subjected to cruel forms of punishment. Most people defend the 
 
 Picasso likely heard personal accounts like the one above after on of the greatest tragedies of the Spanish Civil War—the Bombing of Guernica. Thirty-five days after the bombing, Picasso presented the world an anti-war message no one could ignore. Picasso had completed one of the greatest masterpieces of the 20th century—*Guernica*—a monumental black-and-white canvas spanning 25 feet by 11 feet, depicting the horrors of war. Shortly after completing the painting, a German officer entered Picasso’s apartment and asked Picasso, “Did you do that?” Picasso responded, “No, you did.”
 
-![Picasso's Guernica](/assets/PicassoGuernica.png)
+![Picasso's Guernica](/assets/the-rationalization-of-punishment/PicassoGuernica.png)
 
 *So much suffering* is all I could think when I first saw this painting. On the far left of the composition lies a woman wailing while clutching her dead child. Under the woman lies a dismembered arm, presumably belonging to the man whose head is detached from his body. He seems to be holding a broken sword. On the far right, a woman screams with her arms outstretched as she fails to escape a burning building. The mother, the child, the young man, and every other figure in the composition are victims of inexplicable war crimes. My heart wrenches everytime I see these figures. There is something innocent about the people scattered across the canvas. The child’s innocence is obvious, and for the others, they’re just civilians. Civilians who may have lived sinful lives, but civilians nonetheless. I see the dying baby and think what that baby’s life could have been. I think of the young man and think about what his life could have been. Every dying character evokes so much sorrow due to their apparent innocence and the fact that their lives were cut heartbreakingly short because of the war.
 
