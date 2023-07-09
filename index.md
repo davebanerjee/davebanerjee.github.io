@@ -4,13 +4,14 @@
 title: Dave Banerjee
 layout: home
 cover: true
+permalink: 
 ---
 
-Welcome! I am a third-year at Columbia University studying computer science, and I care about making the world a better place, especially for non-human animals. My academic interests lie in ethics, artificial intelligence, nanomaterials, and rationality. I hope my studies better equip me to tackle issues like factory farming, wild animal welfare, global governance, and existential risks.
+Welcome! I am a third-year undergraduate student at Columbia University studying computer science, and I care about making the world a better place, especially for non-human animals. My academic interests lie in ethics, artificial intelligence, nanomaterials, and rationality. I hope my studies better equip me to tackle issues like factory farming, wild animal welfare, global governance, and existential risks.
 
 You can learn more about me [here](/about).\
-You can contact me at [dave.banerjee1@gmail.com](mailto:dave.banerjee1@gmail.com).\
-You can book a meeting with me [here](https://zcal.co/davebanerjee1).
+You can email me [here](mailto:dave.banerjee1@gmail.com).\
+You can book a meeting with me <a href="https://zcal.co/davebanerjee1" target="_blank">here</a>.
 
 ---
 
@@ -24,7 +25,7 @@ You can book a meeting with me [here](https://zcal.co/davebanerjee1).
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      {{ post.subtitle }}
     </li>
   {% endfor %}
 </ul>

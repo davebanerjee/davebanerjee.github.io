@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hedonistic Extreme Utilitarianism and Nozick's Experience Machine"
+subtitle: "A summary of my views on utilitarianism and why I think Nozick's Experience Machine fails to disprove utilitarianism"
 date:   2022-11-20 00:51:56 -0500
 permalink: /blog/hedonistic-extreme-utilitarianism-and-nozick's-experience-machine/
 ---
@@ -13,7 +14,7 @@ permalink: /blog/hedonistic-extreme-utilitarianism-and-nozick's-experience-machi
 
 Utilitarianism is the ethical theory that the goodness of an action is determined by the consequences of that action. In this post, I argue that hedonistic extreme utilitarianism is the strongest form of utilitarianism. Then, I rehash Robert Nozick’s *Experience Machine* thought experiment. Finally, I contend that Nozick misinterprets pleasure, which compromises his argument.
 
-*I do not identify as utilitarian. This post assumes moral realism, even though I am a moral anti-realist.*
+*I do not identify as utilitarian anymore. This post assumes moral realism, even though I am a moral anti-realist.*
 {:.note}
 
 # Clarifying Utilitarianism
@@ -30,11 +31,11 @@ Extreme utilitarianism may initially seem like an uncomfortable ethical system. 
 
 Naturally, when discussing utilitarianism, the notion of condemnation and praise arises. For any action X, should we condemn or praise X? Suppose there is a drowning man, and a passerby jumps in and saves the drowning man. Assuming there was no time to deliberate, it is clear that the extreme utilitarian would praise the passerby. If instead the drowning man was Hitler and the passerby did not know this information, should the action be condemned or praised? An extreme utilitarian who knew that the drowning man was Hitler would still praise the passerby for saving Hitler. It is important to note that the extreme utilitarian can praise someone for committing a wrong action. In this example, praising the passerby reinforces the fact that saving drowning people exists within “a class of actions which are generally right” (Smart 347). In cases of high uncertainty or minimal information, we judge one’s actions not by their consequence but by the action’s expected value and the action’s alignment with rules (i.e. whether the action obeyed a set of rules that generate pleasure on average). Expected value is crucial to determining whether an action is praiseworthy. Suppose there are 500 people in a burning building, and you have two options: a) 100% chance to save 100 lives and b) 50% chance to save everyone but a 50% chance to save no one. Let’s say you choose option b) and you unfortunately save no one. The extreme utilitarian would praise you for choosing option b) because option b) has higher expected value than option a),
 
-[INSERT MATH BLOCK HERE. NEED TO DOWNLOAD MATH]
+![Equation 1](/assets/hedonistic-extreme-util/equation 1.png)
+
+The formulation of utilitarianism I have laid out thus far is hedonistic extreme utilitarianism. Robert Nozick disagrees with this version of utilitarianism. He rejects the notion that pleasure and happiness are the only terminal values. He argues that humans care about things in addition to our experiences—that is, we should not exclusively assign terminal value to pleasure and that humans are more than just experiencers of our environments. To support his belief that humans care about more than just pleasure, Nozick devises the Experience Machine thought experiment.
 
 # Nozick's Experience Machine
-
-The formulation of utilitarianism I have laid out thus far is hedonistic extreme utilitarianism. Robert Nozick disagrees with this version of utilitarianism. He rejects the notion that pleasure and happiness are the only terminal values. He argues that humans care about things in addition to our experiences—that is, we should not exclusively assign terminal value to pleasure and that humans are more than just experiencers of our environments. To support his belief that humans care about more than just pleasure, Nozick devises the following thought experiment.
 
 “Suppose there were an experience machine that would give you any experience that you desired” (Nozick). This experience machine would be so realistic that it would be impossible to differentiate between reality and the experience machine. Ignore issues like whether your loved ones would experience pain knowing that you’re no longer in their lives. In the experience machine, you can experience the greatest of all joys and choose whatever experience you could possibly wish for. Would you plug in? Nozick argues that most people would not want to plug in. He argues that people would not plug in because there are things that matter to us “other than how our lives feel from the inside” (Nozick). Nozick proposes a few things that might matter to us.
 
@@ -42,9 +43,9 @@ First, we want to actively *do* things. We don’t just want to experience thing
 
 Nozick proceeds to tear down hedonism by highlighting that in addition to experienced happiness, we care about how that happiness is distributed across our life. Imagine the following graph with happiness on the vertical axis. time on the horizontal axis. Total lifetime happiness is the integral from beginning of life to end of life with respect to time (i.e. total lifetime happiness = area under the curve).
 
-[INSERT GRAPH]
+![Graph 1](/assets/hedonistic-extreme-util/graph 1.png)
 
-[INSERT MATH BLOCK]
+![Equation 2](/assets/hedonistic-extreme-util/equation 2.png)
 
 Nozick argues that although the total happiness of person 1 and 2 are equal, most people would prefer person 1’s life. He claims that “we would prefer a life of increasing happiness to one of decrease” (Nozick). In fact, in some cases, we may even prefer lives with less total happiness “in order to gain a more desirable narrative direction”—that is, regardless of the integral (total happiness), we may prefer the life with a positive derivative (positive slope) than a life with a smaller or negative derivative.
 
@@ -54,7 +55,8 @@ Nozick appears to make a powerful argument against hedonism, but his argument hi
 
 I will begin by responding to Nozick’s claim that we care about how our happiness is distributed across our lifetimes. Nozick thinks that we care about the “narrative direction” of our lifetime happiness for its own sake (Nozick). Here, Nozick is failing to consider that our preference for narrative direction is an example of a metapleasure. We care about the narrative direction because it directly affects our perceived happiness. We derive pleasure from knowing that our lifetime happiness is on the rise. Thus, we have illustrated that narrative direction is instrumentally valuable in achieving what we really care about—happiness. When we take into account metapleasures that affect our perceived current happiness, we may arrive at a more complex but more accurate equation of happiness
 
-[INSERT MATH BLOCKS]
+![Equation 3](/assets/hedonistic-extreme-util/equation 3.png)
+
 
 where the first term corresponds to satisfaction or fulfillment (i.e. how pleasurable/happy has my life been thus far), the second term corresponds to the happiness gained from committing an action in the present moment, and the third term corresponds to the distribution of happiness over the past year (i.e. the slope of my happiness over the past year). For the slope calculation, I consider only the past year because this timescale seems more in tune with our intuitive metapleasure as compared to timescales of our entire life so far or instantaneous timescale (derivative).
 

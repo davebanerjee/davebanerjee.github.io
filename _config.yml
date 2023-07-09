@@ -18,11 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: en
+
 title: Dave Banerjee
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Junior @ Columbia University Philosophy · Programming · Physics
 logo: /Cropped Portrait at NYC Noodle Shop.jpg
+keywords: []
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.xyz" # the base hostname & protocol for your site, e.g. http://example.com
@@ -61,22 +64,48 @@ menu:
 #theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 plugins:
-  - jekyll-feed
   - jekyll-avatar
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jekyll-include-cache
 
 # Front matter defaults
 defaults:
   - 
     scope:
-      type: posts
+      type:     posts
     values:
       comments: true
-  # - 
-  #   scope: 
-  #     path: hydejack/
-  #   values:
-  #     accent_image: 
-  #     accent_color: rgb(79,177,186)
+  - scope:
+      path:     assets/
+    values:
+      sitemap:  false
+
+kramdown:
+  math_engine:         mathjax
+  math_engine_opts:    {}
+  footnote_backlink:   '&#x21a9;&#xfe0e;'
+
+hydejack:
+  # Set to `true` if you don't want to show an icon indicating external links
+  no_mark_external:    true
+
+  # Set to `true` if you don't intend on changing the accent color on a per-page basis. 
+  # This will increase site build speed!
+  no_page_style:       true
+
+  # Set to `true` if you don't like oversized headlines on large screens.
+  no_large_headings:   true
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
