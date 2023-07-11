@@ -1,20 +1,19 @@
 ---
 layout: post
 title:  "Hedonistic Extreme Utilitarianism and Nozick's Experience Machine"
-subtitle: "A summary of my views on utilitarianism and why I think Nozick's Experience Machine fails to disprove utilitarianism"
+subtitle: "A summary of my views on utilitarianism, and why I think Nozick's Experience Machine fails to disprove utilitarianism"
 date:   2022-11-20 00:51:56 -0500
 permalink: /blog/hedonistic-extreme-utilitarianism-and-nozick's-experience-machine/
+featured: true
+comments: true
 ---
-
-*8 min read*
-{:.lead}
 
 1. 
 {:toc}
 
 Utilitarianism is the ethical theory that the goodness of an action is determined by the consequences of that action. In this post, I argue that hedonistic extreme utilitarianism is the strongest form of utilitarianism. Then, I rehash Robert Nozick’s *Experience Machine* thought experiment. Finally, I contend that Nozick misinterprets pleasure, which compromises his argument.
 
-*I do not identify as utilitarian anymore. This post assumes moral realism, even though I am a moral anti-realist.*
+*I do not identify as utilitarian anymore. This post assumes moral realism.*
 {:.note}
 
 # Clarifying Utilitarianism

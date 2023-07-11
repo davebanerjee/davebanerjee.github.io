@@ -84,6 +84,7 @@ defaults:
       type:     posts
     values:
       comments: true
+      featured: false
   - scope:
       path:     assets/
     values:

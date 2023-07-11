@@ -23,9 +23,11 @@ You can book a meeting with me <a href="https://zcal.co/davebanerjee1" target="_
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.subtitle }}
-    </li>
+    {% if post.featured %}
+      <li>
+        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+        {{ post.subtitle }}
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
