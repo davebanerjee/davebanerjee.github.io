@@ -21,11 +21,12 @@
 lang: en
 
 title: Dave Banerjee
+tagline: Philosophy · Programming · Physics
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Junior @ Columbia University Philosophy · Programming · Physics
 logo: /Cropped Portrait at NYC Noodle Shop.jpg
-keywords: []
+keywords: [philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule, nanomaterials, graphene]
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.xyz" # the base hostname & protocol for your site, e.g. http://example.com
@@ -76,6 +77,30 @@ plugins:
   - jekyll-sitemap
   - jekyll-titles-from-headings
   - jekyll-include-cache
+
+# SEO Tag
+# ---------------------------------------------------------------------------------------
+
+# Where you proof that you own this site (used by jekyll-seo-tag)
+google_site_verification: EdKbJEVW9Wkjr9Agg8b3eA29kqgzYnWwxKCmov6zBqs
+
+# Used for twitter cards
+twitter:
+  username:            daverbanerjee
+
+# Used for facebook open graph
+# facebook:
+#   app_id:              <id>
+#   publisher:           <id>
+#   admins:              <id>
+
+# Used on index and about sites
+social:
+  name:                Dave Banerjee
+  links:
+    - https://twitter.com/daverbanerjee
+    - https://github.com/davebanerjee
+
 
 # Front matter defaults
 defaults:
