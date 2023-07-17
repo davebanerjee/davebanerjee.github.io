@@ -3,6 +3,7 @@ layout: post
 title:  "The Rationalization of Punishment"
 subtitle: Do criminals deserve to be punished?
 date:   2022-04-19 00:51:56 -0500
+last_modified_at: 2023-07-11 00:51:56 -0500
 permalink: /blog/the-rationalization-of-punishment/
 featured: true
 comments: true

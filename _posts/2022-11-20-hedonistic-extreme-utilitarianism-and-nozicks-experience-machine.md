@@ -3,6 +3,7 @@ layout: post
 title:  "Hedonistic Extreme Utilitarianism and Nozick's Experience Machine"
 subtitle: "A summary of my views on utilitarianism, and why I think Nozick's Experience Machine fails to disprove utilitarianism"
 date:   2022-11-20 00:51:56 -0500
+last_modified_at: 2023-07-11 00:51:56 -0500
 permalink: /blog/hedonistic-extreme-utilitarianism-and-nozick's-experience-machine/
 featured: true
 comments: true
