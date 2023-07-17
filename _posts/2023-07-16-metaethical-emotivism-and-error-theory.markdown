@@ -67,7 +67,7 @@ Mackie's anti-realist thoery differs from Ayer in that Mackie assumes weak cogni
 
 2. *Ontological Claim*: There are no objectively and categorically prescriptive facts.
 
-Mackie defends his ontological claim by highlighting a metaphysical and epistemological problem with objective and categorically prescriptive facts (i.e. objective values). The metaphysical problem with objective values is that objective values would have to be "intrinsically action guiding and motivating," according to Mackie. The epistemological problem concerns "the difficulty of accounting for our knowledge of value entities or features and of their links with the features on which they would be consequential."
+Mackie defends his ontological claim by highlighting a metaphysical problem with objective and categorically prescriptive facts (i.e. objective values). The metaphysical problem with objective values is that objective values would have to be "intrinsically action guiding and motivating," according to Mackie.
 
 Mackie writes:
 
