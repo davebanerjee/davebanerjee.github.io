@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "Metaethical Emotivism and Error Theory"
-description: What is cognitivism, emotivism, and error theory? What do I make of all these metaethical theories?
-date:   2023-07-16 00:51:56 -0500
-last_modified_at: 2023-07-16 00:51:56 -0500
-permalink: /blog/emotivism-error-theory
-featured: true
-comments: true
+layout:               post
+title:                "Emotivism and Error Theory"
+subtitle:             What is cognitivism, emotivism, and error theory? What do I make of all these metaethical theories?
+date:                 2023-07-16 00:51:56 -0500
+last_modified_at:     2023-07-16 00:51:56 -0500
+permalink:            /blog/emotivism-error-theory
+image:                /assets/emotivism-error-theory/philosophical-brain.jpg
+image_desc:           Human brain with countries painted on head
+featured:             true
+comments:             true
 ---
 
 This is likely the first post in a longer series of my writings on metaethics. In this first post, I will summarize the differences between cognitivism and non-cognitivism, as well as introduce A.J. Ayer's Emotivist Theory and J.L. Mackie's Error Theory. Finally, I will offer where I disagree with Mackie and why I find Ayer’s emotivism appealing.

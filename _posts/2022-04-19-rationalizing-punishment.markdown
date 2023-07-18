@@ -1,15 +1,15 @@
 ---
-layout: post
-title:  "The Rationalization of Punishment"
-description: Do criminals deserve to be punished?
-date:   2022-04-19 00:51:56 -0500
-last_modified_at: 2023-07-11 00:51:56 -0500
-permalink: /blog/rationalization-punishment
-featured: true
-comments: true
+layout:               post
+title:                "Rationalizing Punishment"
+subtitle:             Why do we punish criminals? Do criminals deserve our empathy?
+date:                 2022-04-19 00:51:56 -0500
+last_modified_at:     2023-07-11 00:51:56 -0500
+permalink:            /blog/rationalizing-punishment
+image:                /assets/the-rationalization-of-punishment/prisonerdeathpenalty_getty.jpg
+image_desc:           Prisoner behind bars
+featured:             true
+comments:             true
 ---
-
-![Prisoner behind bars](/assets/the-rationalization-of-punishment/prisonerdeathpenalty_getty.webp)
 
 U.S. inmates are subjected to cruel forms of punishment. Most people defend the punishment of prisoners as a necessary evil to deter others from committing crimes and also to hold the prisoner responsible for their crimes. However, the punishment of prisoners is an unnecessary evil. Punishing prisoners does not serve as an effective method of crime deterrence. Furthermore, the U.S. prison system’s forms of punishment deny prisoners their human rights. Thus, we must advocate for humane prisons and the rights of prisoners. Building a prison system that focuses on rehabilitation rather than punishment is imperative. Unfortunately, the rationalization of punishing criminals runs deep in American society, which makes fighting for prisoners’ rights challenging.
 
