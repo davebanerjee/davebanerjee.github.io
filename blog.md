@@ -11,7 +11,7 @@ permalink: /blog/
     {% if post.featured %}
       <li>
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {{ post.subtitle }}
+        {{ post.description }}
       </li>
     {% endif %}
   {% endfor %}

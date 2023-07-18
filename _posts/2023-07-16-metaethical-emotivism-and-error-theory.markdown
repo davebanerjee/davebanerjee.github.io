@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Metaethical Emotivism and Error Theory"
-subtitle: What is cognitivism, emotivism, and error theory? What do I make of all these metaethical theories?
+description: What is cognitivism, emotivism, and error theory? What do I make of all these metaethical theories?
 date:   2023-07-16 00:51:56 -0500
 last_modified_at: 2023-07-16 00:51:56 -0500
-permalink: /blog/metaethical-emotivism-and-error-theory/
+permalink: /blog/emotivism-error-theory/
 featured: true
 comments: true
 ---
