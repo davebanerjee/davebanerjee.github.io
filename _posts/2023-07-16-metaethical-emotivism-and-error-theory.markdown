@@ -4,7 +4,7 @@ title:  "Metaethical Emotivism and Error Theory"
 description: What is cognitivism, emotivism, and error theory? What do I make of all these metaethical theories?
 date:   2023-07-16 00:51:56 -0500
 last_modified_at: 2023-07-16 00:51:56 -0500
-permalink: /blog/emotivism-error-theory/
+permalink: /blog/emotivism-error-theory
 featured: true
 comments: true
 ---
@@ -18,17 +18,17 @@ This is likely the first post in a longer series of my writings on metaethics. I
 
 Last month, I read Alexander Miller's <a href="https://www.goodreads.com/book/show/346051.An_Introduction_to_Contemporary_Metaethics" target="_blank">*An Introduction to Contemporary Metaethics*</a>. It was an extremely confusing read (an introduction in name only). I didn't feel like I had the necessary prerequisites to fully appreciate the content, but I'm glad I didn't give up.
 
-After reading this book, I've realized how big the field is and how many philosophical knowledge gaps I have. I used to feel pretty confident in my philosophical abilities. I thought I had a good grasp of ethics with an especially strong understanding of the strengths and weaknesses of utilitarianism. This undue, heightened sense of competence in philosophy may have arisen from interacting almost exclusively with utilitarians over the year. Over the past few months, I've taken a step back from ethics (and effective altruism) and have begun exploring new fields. No longer hindered by the pressure to maximize utility, I found time to do other fun things like reading a metaethics textbook!
+After reading this book, I've realized how big the field is and how many philosophical knowledge gaps I have. I used to feel pretty confident in my philosophical abilities. I thought I had a good grasp of ethics with an especially strong understanding of the strengths and weaknesses of utilitarianism. This undue, heightened sense of competence in philosophy may have arisen from interacting almost exclusively with utilitarians over the past year. Over the past few months, I've taken a step back from ethics (and effective altruism) and have begun exploring new fields. No longer hindered by the pressure to maximize utility, I found time to do other fun things like reading a metaethics textbook!
 
 # The Great Divide: Non-Cognitivism vs. Cognitivism
 
 Ethics is the study of what is morally right and wrong. Ethics is concerned with questions like 'should I give to famine relief' or 'should I convince my brother to murder people.' Metaethics, on the other hand, is the study of what *is morality* and moral language. Metaethics is concerned with questions like 'is there objective morality,' 'do moral judgements express solely emotions,' or 'what are the origin of moral facts.'
 
-I was introduced to metaethics through a discussion of moral realism and anti-realism (I rolled my eyes when I first heard these terms but now I foolishly use them in everyday conversation, oops). Moral realism is the theory that there exist objective moral values, and moral anti-realism is the theory that there does not exist objective moral facts. While I initially thought that the primary disagreement in metaethics was between these two theories, Miller, the author of <a href="https://www.goodreads.com/book/show/346051.An_Introduction_to_Contemporary_Metaethics" target="_blank">*An Introduction to Contemporary Metaethics*</a>, think that the primary divide in metaethics is between the non-cognitivists and the cognitivists.
+I was introduced to metaethics through a discussion of moral realism and anti-realism (I rolled my eyes when I first heard these terms but now I foolishly use them in everyday conversation, oops). Moral realism is the theory that there exist objective moral values, and moral anti-realism is the theory that there do not exist objective moral facts. While I initially thought that the primary disagreement in metaethics was between these two theories, Miller, the author of <a href="https://www.goodreads.com/book/show/346051.An_Introduction_to_Contemporary_Metaethics" target="_blank">*An Introduction to Contemporary Metaethics*</a>, think that the primary divide in metaethics is between the non-cognitivists and the cognitivists.
 
 Cognitivists believe that moral judgements (e.g. 'murder is wrong') express a truth-apt belief. A truth-apt belief is a belief that is apt to be assessed in terms of truth and falsity. Non-cognitivists believes that moral judgements express non-cognitive states such as emotions, desires, passions, or sentiments. These non-cognitive states are not truth-apt.
 
-Consider the moral judgement 'you acted wrong in murdering that person.' The cognitivist would claim that the moral judgement is a truth-apt statement—it is either true or false. The non-cognitivist would argue that the judgement is not an expression of a belief; rather, the judgement is an expression of some non-cognitive state like emotion. They would argue that the judgement you acted wrong in murdering that person’ is equivalent to exclaiming ‘boooo, murder sucks!’ or blurting 'you killed that person!' in a tone of intense horror.
+Consider the moral judgement 'you acted wrongly in murdering that person.' The cognitivist would claim that the moral judgement is a truth-apt statement—it is either true or false. The non-cognitivist would argue that the judgement is not an expression of a belief; rather, the judgement is an expression of some non-cognitive state like emotion. They would argue that the judgement you acted wrongly in murdering that person’ is equivalent to exclaiming ‘boooo, murder sucks!’ or blurting 'you killed that person!' in a tone of intense horror.
 
 Within the cognitivists, there is further disagreement. The *strong* cognitivists believe that moral judgements
 
@@ -37,7 +37,7 @@ Within the cognitivists, there is further disagreement. The *strong* cognitivist
 
 *Weak* cognitivists accept 1 but reject 2.
 
-So, if we reconsider the moral judgement 'you acted wrong in murdering that person,' both the strong and weak cognitivist would agree that the judgement is truth-apt, but they would disagree on whether we can conclude that the judgement was true or false. The strong cognitivist would say that we can access certain sets of information to come to a conclusion of whether the claim is true. The weak cognitivist would say that we can’t necessarily access a set of knowledge that would render the judgement true.
+So, if we reconsider the moral judgement 'you acted wrongly in murdering that person,' both the strong and weak cognitivist would agree that the judgement is truth-apt, but they would disagree on whether we can conclude that the judgement was true or false. The strong cognitivist would say that we can access certain sets of information to come to a conclusion of whether the claim is true. The weak cognitivist would say that we can’t necessarily access a set of knowledge that would render the judgement true.
 
 # Ayer's Emotivism
 

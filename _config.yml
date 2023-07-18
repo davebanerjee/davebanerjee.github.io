@@ -18,15 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-lang: en
+lang: en-us
 timezone: America/New_York
 
 title: Dave Banerjee
 tagline: Junior @ Columbia University Philosophy · Programming · Physics
 email: dave.banerjee1@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines
   Junior @ Columbia University Philosophy · Programming · Physics
-logo: /Cropped Portrait at NYC Noodle Shop.jpg
+logo: /assets/Cropped Portrait at NYC Noodle Shop.jpg
 keywords: [philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule, nanomaterials, graphene]
 
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -46,11 +46,11 @@ author:
 disqus: davebanerjee-github-io
 
 # Sidebar image
-accent_image: /lightbulb_background.jpg
+accent_image: /assets/lightbulb_background.jpg
 # Color of links, selection and focus outline
 accent_color: rgb(79,177,186)
 
-favicon: /DB_logo_32x32.png
+favicon: /assets/DB_logo_32x32.png
 
 menu:
   - title: Home
