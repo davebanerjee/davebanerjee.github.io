@@ -1,12 +1,14 @@
 ---
-layout: post
-title:  "Hedonistic Extreme Utilitarianism and Nozick's Experience Machine"
-description: "A summary of my views on utilitarianism, and why I think Nozick's Experience Machine fails to disprove utilitarianism"
-date:   2022-11-20 00:51:56 -0500
-last_modified_at: 2023-07-11 00:51:56 -0500
-permalink: /blog/utilitarianism-nozick-experience-machine
-featured: true
-comments: true
+layout:               post
+title:                "Utilitarianism and the Experience Machine"
+subtitle:             "A summary of my views on utilitarianism, and why I think Nozick's Experience Machine fails to disprove utilitarianism"
+date:                 2022-11-20 00:51:56 -0500
+last_modified_at:     2023-07-11 00:51:56 -0500
+permalink:            /blog/utilitarianism-experience-machine
+image:                /assets/hedonistic-extreme-util/experience-machine.jpg
+image_desc:           Experience Machine
+featured:             true
+comments:             true
 ---
 
 1. 

@@ -1,18 +1,21 @@
 ---
-layout: list
-title: Blog
-permalink: /blog/
+layout:      list
+title:       Blog
+permalink:   /blog/
 ---
 
 <h1>Featured Posts</h1>
 
-<ul>
+<div class="grid-container">
   {% for post in site.posts %}
     {% if post.featured %}
-      <li>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {{ post.description }}
-      </li>
+      <div class="blog-post">
+        <a href="{{ post.url }}">
+          <a href="{{ post.url }}"><img class="blog-post-img" src="{{ post.image }}" alt="{{ post.image_desc }}"></a>
+          <h3 class="featured-post"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <span class="featured-post">{{ post.subtitle }}</span>
+        </a>
+      </div>
     {% endif %}
   {% endfor %}
-</ul>
+</div>

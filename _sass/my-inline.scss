@@ -14,3 +14,28 @@ h2 {
 h3 {
     margin-top: .7em;
 }
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+    padding: 20px;
+}
+
+.blog-post {
+    background-color: #f7f7f7;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h4.featured-post {
+    margin-top: 1px;
+}
+
+span.featured-post {
+    font-size: 0.8em;
+    display: inline-block;
+    line-height: normal;
+}
