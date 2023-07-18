@@ -4,7 +4,7 @@ title:  "The Rationalization of Punishment"
 description: Do criminals deserve to be punished?
 date:   2022-04-19 00:51:56 -0500
 last_modified_at: 2023-07-11 00:51:56 -0500
-permalink: /blog/rationalization-punishment/
+permalink: /blog/rationalization-punishment
 featured: true
 comments: true
 ---

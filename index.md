@@ -15,7 +15,7 @@ You can book a meeting with me <a href="https://zcal.co/davebanerjee1" target="_
 
 ---
 
-![Dave hoodie portrait](/low_library_roof_cropped.jpg)
+![Dave hoodie portrait](/assets/low_library_roof_cropped.jpg)
 
 ---
 
