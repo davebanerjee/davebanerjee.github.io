@@ -28,7 +28,7 @@ h3 {
     background-color: #f7f7f7;
     padding: 0px;
     border-radius: 20px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 7px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     cursor: pointer;
     transition: transform 0.5s ease; /* Adding a transition for smooth glide effect */
@@ -50,6 +50,15 @@ span.featured-post-subtitle {
     display: inline-block;
     line-height: normal;
     padding: 0 10px 0px 10px;
+}
+
+span.readable-date {
+    font-style: italic;
+    display: inline-block;
+    padding: 0 10px 0px 10px;
+    text-align: right;
+    color: black;
+    padding-bottom: 7px;
 }
 
 span.read-time {

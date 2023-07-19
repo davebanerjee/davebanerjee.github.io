@@ -4,6 +4,7 @@ title:                "Rationalizing Punishment"
 subtitle:             Why do we punish criminals? Do criminals deserve our empathy?
 date:                 2022-04-19 00:51:56 -0500
 last_modified_at:     2023-07-11 00:51:56 -0500
+readable_date:        19 Apr 2022
 permalink:            /blog/rationalizing-punishment
 image:                /assets/the-rationalization-of-punishment/prisonerdeathpenalty_getty.jpg
 image_desc:           Prisoner behind bars
