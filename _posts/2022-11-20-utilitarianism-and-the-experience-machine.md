@@ -7,6 +7,7 @@ last_modified_at:     2023-07-11 00:51:56 -0500
 permalink:            /blog/utilitarianism-experience-machine
 image:                /assets/hedonistic-extreme-util/experience-machine.jpg
 image_desc:           Experience Machine
+read_time:            8 min read
 featured:             true
 comments:             true
 ---

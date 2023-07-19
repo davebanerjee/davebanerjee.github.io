@@ -7,6 +7,7 @@ last_modified_at:     2023-07-11 00:51:56 -0500
 permalink:            /blog/rationalizing-punishment
 image:                /assets/the-rationalization-of-punishment/prisonerdeathpenalty_getty.jpg
 image_desc:           Prisoner behind bars
+read_time:            10 min read
 featured:             true
 comments:             true
 ---
