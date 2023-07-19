@@ -7,6 +7,7 @@ last_modified_at:     2023-07-16 00:51:56 -0500
 permalink:            /blog/emotivism-error-theory
 image:                /assets/emotivism-error-theory/philosophical-brain.jpg
 image_desc:           Human brain with countries painted on head
+read_time:            7 min read
 featured:             true
 comments:             true
 ---
