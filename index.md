@@ -20,6 +20,7 @@ You can book a meeting with me <a href="https://zcal.co/davebanerjee1" target="_
 ---
 
 <h1>Featured Posts</h1>
+
 <div class="grid-container">
   {% for post in site.posts %}
     {% if post.featured %}
