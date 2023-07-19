@@ -27,7 +27,8 @@ I hope you enjoy exploring my site :)
         <img class="blog-post-img" src="{{ post.image }}" alt="{{ post.image_desc }}">
         <h3 class="featured-post-title">{{ post.title }}</h3>
         <span class="featured-post-subtitle">{{ post.subtitle }}</span>
-        <span class="read-time">{{ post.read_time }}</span>
+        <span class="readable-date">{{ post.readable_date }}</span>
+        <span class="read-time">{{ post.read_time }} </span>
       </div>
     {% endif %}
   {% endfor %}

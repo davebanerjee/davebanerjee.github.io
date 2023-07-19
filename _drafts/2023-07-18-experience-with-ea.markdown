@@ -3,9 +3,12 @@ layout:               post
 title:                "The Convergence on AI Safety"
 subtitle:             insert description here
 date:                 2023-07-18 00:51:56 -0500
-last_modified_at:     2023-07-18 00:51:56 -0500
+last_modified_at:     
+readable_date:        
 permalink:            /blog/ea-experience
 image:                
+image_desc:           
+read_time:            
 featured:             true
 comments:             true
 ---

@@ -4,6 +4,7 @@ title:                "Emotivism and Error Theory"
 subtitle:             What is cognitivism, emotivism, and error theory? What do I make of all these metaethical theories?
 date:                 2023-07-16 00:51:56 -0500
 last_modified_at:     2023-07-16 00:51:56 -0500
+readable_date:        16 Jul 2023
 permalink:            /blog/emotivism-error-theory
 image:                /assets/emotivism-error-theory/philosophical-brain.jpg
 image_desc:           Human brain with countries painted on head
