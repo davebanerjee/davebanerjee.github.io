@@ -11,7 +11,8 @@ Welcome! I am a third-year undergraduate student at Columbia University studying
 
 You can learn more about me [here](/about).\
 You can email me [here](mailto:dave.banerjee1@gmail.com).\
-You can book a meeting with me <a href="https://zcal.co/davebanerjee1" target="_blank">here</a>.
+You can book a meeting with me <a href="https://zcal.co/davebanerjee1" target="_blank">here</a>.\
+If you want to receive emails everytime I post: <a href="https://mailchi.mp/fb3001298fbe/issic5ngxf" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
 
 ---
 
