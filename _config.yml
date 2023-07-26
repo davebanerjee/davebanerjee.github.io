@@ -59,12 +59,15 @@ menu:
     url:   /about
   - title: Blog
     url:   /blog
+  # - title: Projects
+  #   url:   /projects
 
 
 # Build settings
 # I ran into issues with loading the theme on github pages. https://stackoverflow.com/questions/70654418/github-pages-build-error-the-jekyll-theme-hydejack-theme-could-not-be-found
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
+
 plugins:
   - jekyll-avatar
   - jekyll-default-layout

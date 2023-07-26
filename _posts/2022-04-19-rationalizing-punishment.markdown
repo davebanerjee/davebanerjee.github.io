@@ -61,3 +61,23 @@ We must change this kind of thinking and adopt *radical empathy*. <a href="https
 Prisoners do not have anyone to speak for them, so we must step in and advocate for them. Many prisoners lose their right to vote, so their voices are silenced in the realm of American politics. Most politicians ignore prisoners’ rights because prisoners cannot even vote for politicians. It is not in the interest of politicians to advocate for a bloc that cannot even vote for them. Thus, it is up to us to stand and fight. Vote for politicians who actually care about prisoners’ wellbeing. Encourage those who defend the rights of prisoners. Be a radical empathist.
 
 Considering my reactions to *Guernica* and *Inferno* through the lens of radical empathy, I have realized that I should react to both depictions of punishment similarly. Just because Filippo Argenti may have lived a sinful life, does not mean he deserves to be punished. And it doesn’t mean that I should rationalize his punishment either. In the same way that I felt a visceral pain for the dismembered man in *Guernica*, I should try to feel that same empathy for Argenti. I am denying Argenti’s humanity by failing to empathize with him. My failure to empathize with Argenti extends directly to the way we think about the punishment of prisoners. By expanding our circle of compassion and empathy, we can develop a society where prisoners aren’t punished unnecessarily. Criminals are not monsters; they are victims. We must advocate for their rights because if we do not, no one else will. I’m hopeful though. I see a bright future: a future where when we hear the word “prison,” we won’t be thinking about punishment; rather, we’ll be thinking of rehabilitation.
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://davebanerjee-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
