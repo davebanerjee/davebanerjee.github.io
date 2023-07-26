@@ -12,6 +12,8 @@ In the projects section, I document my research projects, programming projects, 
 
 In my free time, you can find me rock climbing, going to raves, [reading](https://www.goodreads.com/user/show/136154707-dave-banerjee), thrifting, dancing, or folding laundry.
 
+If you would like to receive emails whenever I post: <a href="https://mailchi.mp/fb3001298fbe/issic5ngxf" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
+
 I hope you enjoy exploring my site :)
 
 — Dave
