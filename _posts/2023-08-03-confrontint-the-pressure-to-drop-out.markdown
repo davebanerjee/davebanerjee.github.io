@@ -1,7 +1,7 @@
 ---
 layout:               post
 title:                "Confronting the Pressure to Drop Out"
-subtitle:             What do you want out of college? A reason to drop out...
+subtitle:             "What do you want out of college? A reason to drop out..."
 date:                 2023-08-03 00:51:56 -0500
 last_modified_at:     2023-08-03 00:51:56 -0500
 readable_date:        3 Aug 2023
