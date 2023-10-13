@@ -27,7 +27,7 @@ email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines
   Junior @ Columbia University Philosophy · Programming · Physics
 logo: /assets/Cropped Portrait at NYC Noodle Shop.jpg
-keywords: [philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule, nanomaterials, graphene]
+keywords: [philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule]
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.xyz" # the base hostname & protocol for your site, e.g. http://example.com
@@ -60,8 +60,8 @@ menu:
     url:   /about
   - title: Blog
     url:   /blog
-  # - title: Projects
-  #   url:   /projects
+  - title: Projects
+    url:   /projects
 
 
 # Build settings
@@ -119,6 +119,7 @@ defaults:
     values:
       comments: true
       featured: false
+      project: false
   - scope:
       path:     assets/
     values:

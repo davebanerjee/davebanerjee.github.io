@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title:      Dave Banerjee
-layout:     home
+layout:     page
 cover:      true
 permalink: 
 ---
@@ -35,17 +35,3 @@ If you want to receive emails everytime I post: <a href="https://mailchi.mp/fb30
     {% endif %}
   {% endfor %}
 </div>
-
-<!-- OLD WAY TO DISPLAY FEATURED POSTS -->
-<!-- <h1>Featured Posts</h1>
-
-<ul>
-  {% for post in site.posts %}
-    {% if post.featured %}
-      <li>
-        <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-        {{ post.subtitle }}
-      </li>
-    {% endif %}
-  {% endfor %}
-</ul> -->
