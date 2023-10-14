@@ -22,10 +22,10 @@ lang: en-us
 timezone: America/New_York
 
 title: Dave Banerjee
-tagline: Junior @ Columbia University Philosophy · Programming · Physics
+tagline: Philosophy · Programming · Physics
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines
-  Junior @ Columbia University Philosophy · Programming · Physics
+  Dave's personal website and blog where he writes about philosophy, programming, and physics
 logo: /assets/Cropped Portrait at NYC Noodle Shop.jpg
 keywords: [philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule]
 
