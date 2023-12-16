@@ -20,4 +20,4 @@ Welcome to the Ernest Hemingway Text Generator, a decoder-only transformer model
 
 ## Demo
 
-![](assets/hemingway-text-generator/demo.gif)
+![](/assets/hemingway-text-generator/demo.gif)
