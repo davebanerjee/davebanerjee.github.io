@@ -9,7 +9,7 @@ permalink:            /blog/pressure-drop-out
 image:                /assets/fetishization-dropping-out/graduation-cap-throw.jpg
 image_desc:           recent college graduates throwing caps in a semi-circle in the air
 read_time:            5 min read
-featured:             true
+featured:             false
 comments:             true
 ---
 
