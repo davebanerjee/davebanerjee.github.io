@@ -7,7 +7,7 @@ cover:      true
 permalink: 
 ---
 
-Welcome! I am a third-year undergraduate student at Columbia University studying computer science, and I care about making the world a better place, especially for non-human animals. My academic interests lie in ethics, artificial intelligence, nanomaterials, and rationality. I hope my studies better equip me to tackle issues like factory farming, wild animal welfare, global governance, and existential risks.
+Welcome! I am a fourth-year undergraduate student at Columbia University studying computer science, and I care about making the world a better place, especially for non-human animals. My academic interests lie in information security, artificial intelligence, ethics, physics, and cognitive science. I hope my studies better equip me to tackle issues like AI safety, information security of critical infrastructure, wild animal welfare, and factory farming.
 
 You can learn more about me [here](/about).\
 You can email me [here](mailto:dave.banerjee1@gmail.com).\
