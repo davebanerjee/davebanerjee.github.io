@@ -5,7 +5,7 @@ subtitle:             "Three different answers for the same math problem? Someth
 date:                 2024-01-11 00:53:56 -0500
 last_modified_at:     2024-01-11 00:53:56 -0500
 readable_date:        11 Jan 2024
-permalink:            /blog/betrand-paradox
+permalink:            /blog/bertrand-paradox
 image:                /assets/bertrand-paradox/thumbnail.png # image dimensions: 1000 × 668
 image_desc:           chords in a circle
 read_time:            5 min read
@@ -22,7 +22,7 @@ comments:             true
 
 Suppose I tell you I have a six-sided die in my pocket, out of your line of sight, and I ask you, “If I roll the dice, what is your credence that it lands on one?” You don’t know anything about the dice besides the fact that it has six-sides, which means that there are six possible outcomes. Since you don’t have any other information about the dice, it seems most reasonable to distribute your credences equally amongst the six possible outcomes. Thus, you claim that your credence in the die landing on 1 is $$\frac{1}{6}$$. In this situation, you have invoked the principle of indifference. **The principle of indifference states a rational agent should hold equal credence amongst all possible outcomes in the absence of relevant evidence**. In other words, if there is no reason to think that one outcome is more likely than another outcome, then one should assign equal credence to each possible outcome. In this situation, there is no reason to believe that the dice is rigged in some way. Although the principle of indifference usually produces reasonable credences, there are certain sets of propositions that produce ill-defined credences. In 1889, Joseph Bertrand posed a problem that showed the inconsistency of the principle of indifference.
 
-# Betrand Paradox
+# Bertrand Paradox
 
 The Bertrand paradox is the following: 
 > Consider a circle in which an equilateral triangle has been inscribed. Suppose a chord of the circle is chosen at random. What is the probability that the length of the chord is greater than the length of a side of the inscribed triangle?”
