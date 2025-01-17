@@ -13,22 +13,22 @@ featured:             false
 comments:             true
 ---
 
-**This is a low effort post written almost exclusively by [Claude](https://claude.ai). I wanted to publish as fast as possible. Please excuse the weird style of writing.**
+**This is a low effort post. I wanted to publish as fast as possible.**
 
 # Stretch Reminder
 
-While maintaining "good posture" has long been emphasized as crucial for physical health, recent research suggests that the traditional concept of perfect posture - sitting or standing ramrod straight for extended periods - may not be as beneficial as once thought. Our bodies are designed for movement, and holding any single position for too long, even if it's technically "correct," can lead to muscle fatigue, reduced circulation, and increased pressure on specific joints and tissues.
-
-What appears to be more important for musculoskeletal health is frequent movement and postural variation throughout the day. This might mean alternating between sitting, standing, and walking; shifting between different sitting positions; or even occasionally adopting positions that might not fit the classical definition of good posture. **The key is to avoid static positioning, as movement helps nourish our joints, maintain muscle flexibility, and promote better blood flow**. This dynamic approach to posture aligns better with our evolutionary history as humans who were constantly moving rather than maintaining fixed positions for hours at a time.
-
-To help me move around more, I wrote some code to remind me to stretch every hour (Note: this code only works on MacOS. If you are using another operating system, please copy paste this whole post into an LLM and do what it says. Most likely, the LLM will guide you to create a CronJob or something). The Python script creates a full-screen reminder application that interrupts work every hour, while the accompanying plist file ensures this reminder runs automatically every hour.
+I've been sitting a lot lately. Recently, my back has been hurting, and I suspect the pain is coming from sitting statically for prolonged periods of time. To encourage me to move around more, I (mostly [Claude](https://claude.ai)) wrote a script that reminds me every hour to stretch (and to drink water). The code only works on MacOS, so if you are using another operating system, please copy paste this whole post into an LLM, tell it your operating system, and do what it says. Most likely, the LLM will guide you to create a CronJob or something. If the program isn't working, please [email me](mailto:dave.banerjee1@gmail.com).
 
 ![Stretch reminder](/assets/stretch-reminder/stretch_reminder.png)
 
 A screenshot of the full-screen stretch reminder.
 {:.figcaption}
 
-The Python script can go anywhere, but I placed the script at ~/scripts/stretch_reminder.py. The .plist file must be placed under the directory ~/Library/LaunchAgents. After creating the files, open your terminal of choice, and run 
+The Python script creates a full-screen reminder application that interrupts work every hour, while the accompanying plist file ensures this reminder runs automatically every hour (you can change the frequency if you'd like). The .py file can go anywhere, but I placed the script under the directory ~/scripts. The .plist file **must** be placed under the directory ~/Library/LaunchAgents. 
+
+Make sure to edit the .plist file to include the path to your .py file and the path to your Python interpreter (run `which python3` in your terminal to determine your Python interpreter path).
+
+After saving the files, open your terminal, and run 
 
 `launchctl load ~/Library/LaunchAgents/com.user.stretchreminder.plist`
 
