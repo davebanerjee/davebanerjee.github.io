@@ -28,7 +28,7 @@ To help me move around more, I wrote some code to remind me to stretch every hou
 A screenshot of the full-screen stretch reminder.
 {:.figcaption}
 
-The python script can go anywhere, but I placed the script at ~/scripts/stretch_reminder.py. The plist file must be placed under the directory ~/Library/LaunchAgents. 
+The python script can go anywhere, but I placed the script at ~/scripts/stretch_reminder.py. The plist file must be placed under the directory ~/Library/LaunchAgents. After creating the files, open your terminal of choice, and run `launchctl load com.user.stretchreminder.plist`.
 
 ~~~py
 # file: "~/scripts/sretch_reminder.py"
