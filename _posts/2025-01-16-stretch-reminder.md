@@ -28,7 +28,9 @@ To help me move around more, I wrote some code to remind me to stretch every hou
 A screenshot of the full-screen stretch reminder.
 {:.figcaption}
 
-The python script can go anywhere, but I placed the script at ~/scripts/stretch_reminder.py. The plist file must be placed under the directory ~/Library/LaunchAgents. After creating the files, open your terminal of choice, and run `launchctl load com.user.stretchreminder.plist`.
+The Python script can go anywhere, but I placed the script at ~/scripts/stretch_reminder.py. The .plist file must be placed under the directory ~/Library/LaunchAgents. After creating the files, open your terminal of choice, and run 
+
+`launchctl load ~/Library/LaunchAgents/com.user.stretchreminder.plist`
 
 ~~~py
 # file: "~/scripts/sretch_reminder.py"
@@ -105,9 +107,13 @@ if __name__ == "__main__":
     <string>com.user.stretchreminder</string>
     <key>ProgramArguments</key>
     <array>
-        <!-- Path to Python interpreter (assuming Anaconda's Python installation) - PLEASE REPLACE THE BELOW PATH WITH WHATEVER PYTHON INTERPRETER YOU USUALLY USE -->
+        <!-- Path to Python interpreter (assuming Anaconda's Python installation).
+        Make sure to replace the path below with your Python interpreter.
+        You can determine your interpreter by running `which python3` in your terminal.) -->
         <string>/Users/davebanerjee/anaconda3/bin/python3</string>
-        <!-- Path to the stretch reminder script - this script can be located anywhere in your file system -->
+        <!-- Path to the stretch reminder script.
+        This script can be located anywhere in your file system
+        but make sure to update the path below accordingly-->
         <string>/Users/davebanerjee/scripts/stretch_reminder.py</string>
     </array>
     <key>StartCalendarInterval</key>
