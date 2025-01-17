@@ -44,4 +44,4 @@ permalink:   /blog/
 
 ---
 
-<h1>All Posts Listed By Year</h1>
+<h1>All Posts & Projects Listed By Year</h1>
