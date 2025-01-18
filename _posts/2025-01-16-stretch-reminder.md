@@ -6,23 +6,17 @@ date:                 2025-01-16 00:53:56 -0500
 last_modified_at:     2025-01-16 00:53:56 -0500
 readable_date:        16 Jan 2026
 permalink:            /blog/stretch-reminder
-image:                /assets/stretch-reminder/stretch_reminder.png # image dimensions: 1000 × 668
+image:                /assets/stretch-reminder/stretch_reminder.png # image dimensions: 3:2
 image_desc:           Stretch reminder
 read_time:            1 min read
 featured:             false
 comments:             true
 ---
 
-**This is a low effort post. I wanted to publish as fast as possible.**
-
-# Stretch Reminder
-
-I've been sitting a lot lately. Recently, my back has been hurting, and I suspect the pain is coming from sitting statically for prolonged periods of time. To encourage me to move around more, I (mostly [Claude](https://claude.ai)) wrote a script that reminds me every hour to stretch (and to drink water). The code only works on MacOS, so if you are using another operating system, please copy paste this whole post into an LLM, tell it your operating system, and do what it says. Most likely, the LLM will guide you to create a CronJob or something. If the program isn't working, please [email me](mailto:dave.banerjee1@gmail.com).
-
-![Stretch reminder](/assets/stretch-reminder/stretch_reminder.png)
-
 A screenshot of the full-screen stretch reminder.
 {:.figcaption}
+
+I've been sitting a lot lately. Recently, my back has been hurting, and I suspect the pain is coming from sitting statically for prolonged periods of time. To encourage me to move around more, I wrote a script that reminds me every hour to stretch (and to drink water). The code only works on MacOS, so if you are using another operating system, please copy paste this whole post into an LLM, tell it your operating system, and do what it says. Most likely, the LLM will guide you to create a CronJob or something. If the program isn't working, please [email me](mailto:dave.banerjee1@gmail.com).
 
 The Python script creates a full-screen reminder application that interrupts work every hour, while the accompanying plist file ensures this reminder runs automatically every hour (you can change the frequency if you'd like). The .py file can go anywhere, but I placed the script under the directory ~/scripts. The .plist file **must** be placed under the directory ~/Library/LaunchAgents. 
 
@@ -42,7 +36,6 @@ class StretchReminder:
         self.root = tk.Tk()
         self.root.title("Time to Stretch!")
         
-        # Configure the window
         screen_width = self.root.winfo_screenwidth()
         screen_height = self.root.winfo_screenheight()
         self.root.geometry(f"{screen_width}x{screen_height}+0+0")
@@ -51,13 +44,11 @@ class StretchReminder:
         self.root.attributes("-fullscreen", True)
         self.root.attributes("-alpha", 0.95)
         
-        # Create main frame and content container
         main_frame = tk.Frame(self.root, bg='black')
         main_frame.pack(fill='both', expand=True)
         content_frame = tk.Frame(main_frame, bg='black')
         content_frame.place(relx=0.5, rely=0.5, anchor='center')
         
-        # Current time
         tk.Label(
             content_frame,
             text=datetime.now().strftime("%I:%M %p"),
@@ -66,7 +57,6 @@ class StretchReminder:
             bg="black"
         ).pack(pady=30)
         
-        # Message
         tk.Label(
             content_frame,
             text="Time to stretch and drink water!",
@@ -76,7 +66,6 @@ class StretchReminder:
             justify="center"
         ).pack(pady=40)
         
-        # Dismiss button
         tk.Button(
             content_frame,
             text="Done! (Dismiss)",
@@ -88,7 +77,6 @@ class StretchReminder:
             pady=15
         ).pack(pady=40)
         
-        # Bindings
         self.root.bind('<Escape>', lambda e: self.root.destroy())
         self.root.bind('<Button-1>', lambda e: self.root.destroy())
 
@@ -126,3 +114,5 @@ if __name__ == "__main__":
 </dict>
 </plist>
 ~~~
+
+Happy stretching!
