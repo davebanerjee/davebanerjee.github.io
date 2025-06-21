@@ -22,12 +22,12 @@ lang: en-us
 timezone: America/New_York
 
 title: Dave Banerjee
-tagline: Cybersecurity · ML · Philosophy
+tagline: AI Safety, Governance, and Security
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines
-  Dave's personal website and blog where he writes about philosophy, programming, and physics
+  Dave's personal website and blog where he writes about AI safety, AI governance, philosophy, and physics
 logo: /assets/Dave Headshot.png
-keywords: [philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule]
+keywords: [AI safety, AI governance, AI security, AI, philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule]
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://davebanerjee.xyz" # the base hostname & protocol for your site, e.g. http://example.com
