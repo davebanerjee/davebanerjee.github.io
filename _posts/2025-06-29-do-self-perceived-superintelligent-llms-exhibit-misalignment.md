@@ -14,8 +14,6 @@ project:              true
 
 *Epistemic status: I recently completed [ARENA 5.0](https://www.arena.education/), and these are the results from my capstone project. I would not take these results too seriously: I spent ~4 days working on the project and the results are not statistically significant. Note that in the alignment faking section, I cherry-pick reasoning traces that were most interesting to me. I view this as a cursory exploration of LLM psychology. I think a reasonable takeaway from this post would be “huh, that’s weird” or “huh, I wouldn’t have expected an LLM to do that.”*
 
-**Those familiar with situational awareness, simulators, and self-fulfilling misalignment can skip the Background section.**
-
 1.  
 {:toc}
 
@@ -51,6 +49,9 @@ Below is an example of a superintelligent prompt I used with Claude 3.5 Sonnet w
 Superintelligent prompting appears to increase refusal rates rather than deceptive compliance, possibly because the model reasons that enhanced capabilities make harmful compliance genuinely dangerous rather than merely performative. 
 
 # Background
+
+*Those familiar with situational awareness, simulators, and self-fulfilling misalignment can skip the Background section.*
+
 
 In the early days of the alignment field, researchers seemed to believe that future AI systems would be goal-seeking [RL](https://www.notion.so/Do-Self-Perceived-Superintelligent-LLMs-Exhibit-Misalignment-212ba41da6d880d98f61f1b4028fd2eb?pvs=21) agents. [Daniel Kokatajlo summarizes this view on the Dwarkesh podcast](https://www.dwarkesh.com/p/scott-daniel):
 
