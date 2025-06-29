@@ -52,7 +52,6 @@ Superintelligent prompting appears to increase refusal rates rather than decepti
 
 *Those familiar with situational awareness, simulators, and self-fulfilling misalignment can skip the Background section.*
 
-
 In the early days of the alignment field, researchers seemed to believe that future AI systems would be goal-seeking [RL](https://www.notion.so/Do-Self-Perceived-Superintelligent-LLMs-Exhibit-Misalignment-212ba41da6d880d98f61f1b4028fd2eb?pvs=21) agents. [Daniel Kokatajlo summarizes this view on the Dwarkesh podcast](https://www.dwarkesh.com/p/scott-daniel):
 
 > Go back to 2015 and I think the way people typically thought, including myself, thought that we’d get to AGI would be kind of like the RL on video games thing that was happening. So imagine instead of just [training on Starcraft or Dota](https://en.wikipedia.org/wiki/AlphaStar_(software)), you’d basically train on all the games in the Steam library. And then you get this awesome player of games AI that can just zero-shot crush a new game that it’s never seen before. And then you take it into the real world and you start teaching it English and you start training it to do coding tasks for you and stuff like that.
