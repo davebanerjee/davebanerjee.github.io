@@ -2,8 +2,8 @@
 layout:               post
 title:                "Do Self-Perceived Superintelligent LLMs Exhibit Misalignment?"
 subtitle:             "Simulated intelligence, real alignment risks?"
-date:                 2024-06-29 00:51:56 -0500
-last_modified_at:     2024-06-29 00:51:56 -0500
+date:                 2025-06-29 00:51:56 -0500
+last_modified_at:     2025-06-29 00:51:56 -0500
 readable_date:        29 June 2025
 permalink:            /projects/self-perceived-superintelligent-llm
 image:                /assets/self-perceived-superintelligent-llm/thumbnail.png
