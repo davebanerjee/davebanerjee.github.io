@@ -12,6 +12,8 @@ read_time:
 project:              true
 ---
 
+Cross posted to [LessWrong](https://www.lesswrong.com/posts/EFohZdFPGj2iphnvB/do-self-perceived-superintelligent-llms-exhibit-misalignment) and the [EA Forum](https://forum.effectivealtruism.org/posts/ZkcLbBYzyCtuqZJmS/do-self-perceived-superintelligent-llms-exhibit-misalignment).
+
 *Epistemic status: I recently completed [ARENA 5.0](https://www.arena.education/), and these are the results from my capstone project. I would not take these results too seriously: I spent ~4 days working on the project and the results are not statistically significant. Note that in the alignment faking section, I cherry-pick reasoning traces that were most interesting to me. I view this as a cursory exploration of LLM psychology. I think a reasonable takeaway from this post would be “huh, that’s weird” or “huh, I wouldn’t have expected an LLM to do that.”*
 
 1.  
