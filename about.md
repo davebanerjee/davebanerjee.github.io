@@ -8,13 +8,11 @@ My name is Dave Banerjee, and I am a summer fellow at the [Centre for the Govern
 
 My academic interests lie in AI safety & governance, hardware & software security, (meta)ethics, physics, and cognitive science. My primary goal is improve the welfare of sentient beings, and I think one of the best ways to secure a flourishing future is ensuring that the transition to a world with transformative AI goes well.
 
-On my blog, I share ideas I find cool and interesting. My primary goal with this blog is to formulate my opinions more carefully, critically evaluate my beliefs, and enhance my writing and research skills. Although I primarily write for myself, I hope you enjoy exploring my thoughts and learning more about the world alongside me.
-
-In the projects section, I document my research projects, programming projects, and other longer-form intellectual projects.
-
-In my free time, you can find me rock climbing, [reading](https://www.goodreads.com/user/show/136154707-dave-banerjee), thrifting, dancing, or folding laundry.
+On my blog, I share ideas I find cool and interesting. My primary goal with this blog is to formulate my opinions more carefully, critically evaluate my beliefs, and enhance my writing and research skills. Although I primarily write for myself, I hope you enjoy exploring my thoughts and learning more about the world alongside me. In the projects section, I document my research projects, programming projects, and other longer-form intellectual projects. In my free time, you can find me rock climbing, [reading](https://www.goodreads.com/user/show/136154707-dave-banerjee), thrifting, dancing, or folding laundry.
 
 If you would like to receive emails whenever I post: <a href="https://mailchi.mp/fb3001298fbe/issic5ngxf" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
+
+I have signed no contracts or agreements whose existence I cannot mention.
 
 I hope you enjoy exploring my site :)
 
