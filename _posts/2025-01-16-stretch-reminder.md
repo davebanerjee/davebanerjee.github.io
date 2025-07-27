@@ -4,7 +4,7 @@ title:                "Automatic Stretch Reminder"
 subtitle:             "I wrote a script that reminds me to stretch every hour"
 date:                 2025-01-16 00:53:56 -0500
 last_modified_at:     2025-01-16 00:53:56 -0500
-readable_date:        16 Jan 2026
+readable_date:        16 Jan 2025
 permalink:            /blog/stretch-reminder
 image:                /assets/stretch-reminder/stretch_reminder.png # image dimensions: 3:2
 image_desc:           Stretch reminder
