@@ -22,10 +22,10 @@ lang: en-us
 timezone: America/New_York
 
 title: Dave Banerjee
-tagline: AI Safety, Governance, and Security
+tagline: AI Security & Governance
 email: dave.banerjee1@gmail.com
 description: >- # this means to ignore newlines
-  Dave's personal website and blog where he writes about AI safety, AI governance, philosophy, and physics
+  Dave's personal website and blog where he writes about AI security, AI governance, philosophy, and physics
 logo: /assets/Dave Headshot.png
 keywords: [AI safety, AI governance, AI security, AI, philosophy, programming, computer science, physics, math, cognitive science, economics, rationality, decision theory, probability, bayes, bayesianism, bayes rule]
 
@@ -37,7 +37,7 @@ author:
   name:  Dave Banerjee
   email: dave.banerjee1@gmail.com
   about: |
-    Dave Banerjee is a summer fellow at the Centre for the Governance of AI. Previously, he was a participant in ARENA 5.0, hardware security research assistant through the SPAR program, and security engineer at a hedge fund. He recently graduated from Columbia University in December 2024, where he studied computer science.
+    Dave Banerjee is an AI policy fellow at the Institute for AI Policy and Strategy. Previously, he was a summer fellow at GovAI, participant in ARENA 5.0, hardware security research assistant through the SPAR program, and security engineer at a hedge fund. He recently graduated from Columbia University in December 2024, where he studied computer science.
     To never miss a post: <a href="https://mailchi.mp/fb3001298fbe/issic5ngxf" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe here</a>
   social:
     email:     dave.banerjee1@gmail.com
