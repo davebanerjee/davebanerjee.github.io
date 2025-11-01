@@ -59,9 +59,9 @@ menu:
   - title: About
     url:   /about
   - title: Blog
-    url:   /blog
+    url:   https://davebanerjee.substack.com/
   - title: Projects
-    url:   /projects
+    # url:   /projects
 
 
 # Build settings
