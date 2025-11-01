@@ -60,8 +60,8 @@ menu:
     url:   /about
   - title: Blog
     url:   https://davebanerjee.substack.com/
-  - title: Projects
-    # url:   /projects
+  # - title: Projects
+  #   url:   /projects
 
 
 # Build settings
