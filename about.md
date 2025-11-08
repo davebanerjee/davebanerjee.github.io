@@ -16,7 +16,7 @@ Previously, I did the following stuff:
 
 My academic interests lie in AI security & governance, hardware & software security, (meta)ethics, physics, and cognitive science. I enjoy thinking about what a post-AGI world will look like and how we can make it as good as possible.
 
-If you would like to receive emails whenever I post: <a href="https://mailchi.mp/fb3001298fbe/issic5ngxf" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
+If you would like to receive emails whenever I post: <a href="https://davebanerjee.substack.com/" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
 
 I have signed no contracts or agreements whose existence I cannot mention.
 
@@ -24,7 +24,7 @@ I hope you enjoy exploring my site :)
 
 — Dave
 
----
+<!-- ---
 
 <h1>Featured Posts</h1>
 
@@ -40,4 +40,4 @@ I hope you enjoy exploring my site :)
       </div>
     {% endif %}
   {% endfor %}
-</div>
+</div> -->
