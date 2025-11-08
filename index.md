@@ -13,13 +13,13 @@ My academic interests lie in AI security & governance, hardware & software secur
 
 You can learn more about me [here](/about).\
 You can email me [here](mailto:dave.banerjee1@gmail.com).\
-If you want to receive emails everytime I post: <a href="https://mailchi.mp/fb3001298fbe/issic5ngxf" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
+If you want to receive emails everytime I post: <a href="https://davebanerjee.substack.com/" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
 
 ---
 
 ![Dave hoodie portrait](/assets/low_library_roof_cropped.jpg)
 
----
+<!-- ---
 
 <h1>Featured Posts</h1>
 
@@ -35,4 +35,4 @@ If you want to receive emails everytime I post: <a href="https://mailchi.mp/fb30
       </div>
     {% endif %}
   {% endfor %}
-</div>
+</div> -->
