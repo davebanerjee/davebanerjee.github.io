@@ -18,11 +18,11 @@ My academic interests lie in AI security & governance, hardware & software secur
 
 If you would like to receive emails whenever I post: <a href="https://davebanerjee.substack.com/" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
 
-I have signed no contracts or agreements whose existence I cannot mention.
-
 I hope you enjoy exploring my site :)
 
 — Dave
+
+![Dave as a child running with balloons](/assets/dave running with balloons.JPG)
 
 <!-- ---
 
