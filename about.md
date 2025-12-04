@@ -4,7 +4,7 @@ title:            About
 permalink:        /about
 ---
 
-My name is Dave Banerjee, and I am an AI policy fellow at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://www.rand.org/pubs/research_reports/RRA2849-1.html), [compute governance](https://bluedot.org/blog/introduction-to-compute-governance), and [international verification](https://arxiv.org/abs/2408.16074). Right now, I'm writing papers on AI integrity, the problem of ensuring that frontier AI systems are not tampered with (e.g. preventing nation state actors from backdooring American models).
+My name is Dave Banerjee, and I am an associate researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://www.rand.org/pubs/research_reports/RRA2849-1.html), [compute governance](https://bluedot.org/blog/introduction-to-compute-governance), and extreme power concentration. Right now, I'm writing papers on AI integrity, the problem of ensuring that frontier AI systems are not tampered with (e.g. preventing nation state actors from backdooring American models).
 
 Previously, I did the following stuff:
 
