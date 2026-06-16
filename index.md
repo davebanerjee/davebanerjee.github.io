@@ -7,9 +7,9 @@ cover:      true
 permalink: 
 ---
 
-Welcome! I am an associate researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://www.rand.org/pubs/research_reports/RRA2849-1.html), [compute governance](https://bluedot.org/blog/introduction-to-compute-governance), and extreme power concentration. Previously, I was a summer fellow at [Centre for the Governance of AI](https://www.governance.ai/), participant in [ARENA 5.0](https://www.arena.education/), hardware security research assistant through the [SPAR program](https://sparai.org/), and security engineer at a hedge fund. I graduated from Columbia University in December 2024, where I studied computer science with a focus on cryptography, reverse engineering, and ML.
+Welcome! I am an associate researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://arxiv.org/abs/2606.00036) and extreme power concentration. Previously, I was a summer fellow at [GovAI](https://www.governance.ai/), participant in [ARENA](https://www.arena.education/), hardware security research assistant through [SPAR](https://sparai.org/), and security engineer at a hedge fund. I graduated from Columbia University, where I studied computer science with a focus on cryptography, reverse engineering, and machine learning.
 
-My academic interests lie in AI security & governance, hardware & software security, physics, and cognitive science. I enjoy thinking about what a post-AGI world will look like and how we can make it as good as possible.
+**I am always looking to work with smart people.** I am currently seeking research assistants interested in working on extreme power concentration, and I am happy to personally fund strong collaborators if there is a good fit. If this sounds like you, please reach out via email.
 
 You can learn more about me [here](/about).\
 You can email me [here](mailto:dave.banerjee1@gmail.com).\
