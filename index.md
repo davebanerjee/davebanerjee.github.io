@@ -11,13 +11,13 @@ Welcome! I am an associate researcher at the [Institute for AI Policy and Strate
 
 **I am always looking to work with smart people.** I am currently seeking research assistants interested in working on extreme power concentration, and I am happy to personally fund strong collaborators if there is a good fit. If this sounds like you, please reach out via email.
 
-You can learn more about me [here](/about).\
-You can email me [here](mailto:dave.banerjee1@gmail.com).\
+You can [learn more about me](/about).\
+You can [email me](mailto:dave.banerjee1@gmail.com).\
 If you want to receive emails everytime I post: <a href="https://davebanerjee.substack.com/" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
 
 ---
 
-![Dave hoodie portrait](/assets/low_library_roof_cropped.jpg)
+<img src="/assets/low_library_roof_cropped.jpg" alt="Dave hoodie portrait" width="1600" height="1194" loading="lazy" decoding="async">
 
 <!-- ---
 
@@ -27,7 +27,7 @@ If you want to receive emails everytime I post: <a href="https://davebanerjee.su
   {% for post in site.posts %}
     {% if post.featured %}
       <div class="blog-post" onclick="window.location='{{ post.url }}';">
-        <img class="blog-post-img" src="{{ post.image }}" alt="{{ post.image_desc }}">
+        <img class="blog-post-img" src="{{ post.image }}" alt="{{ post.image_desc }}" loading="lazy" decoding="async">
         <h3 class="featured-post-title">{{ post.title }}</h3>
         <span class="featured-post-subtitle">{{ post.subtitle }}</span>
         <span class="readable-date">{{ post.readable_date }}</span>

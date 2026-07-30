@@ -3,5 +3,9 @@
     {% include analytics.html %}
 {% endif %}
 
+<!-- LCP: the theme emits the sidebar avatar with loading="lazy", which delays its
+     discovery until layout. Preload it so the fetch starts during HTML parse. -->
+<link rel="preload" as="image" fetchpriority="high" href="{{ '/assets/dave-headshot-iaps.jpg' | relative_url }}">
+
 <!-- SEO tags -->
 {% seo %}
