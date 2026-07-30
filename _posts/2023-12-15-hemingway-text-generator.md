@@ -6,7 +6,7 @@ date:                 2023-12-15 00:51:56 -0500
 last_modified_at:     2023-12-15 00:51:56 -0500
 readable_date:        15 Dec 2023
 permalink:            /projects/hemingway-text-generator
-image:                /assets/hemingway-text-generator/book.png
+image:                /assets/hemingway-text-generator/book.jpg
 image_desc:           "Image of open book"
 read_time:            
 project:              true

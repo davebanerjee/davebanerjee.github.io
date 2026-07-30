@@ -6,7 +6,7 @@ date:                 2025-06-29 00:51:56 -0500
 last_modified_at:     2025-06-29 00:51:56 -0500
 readable_date:        29 June 2025
 permalink:            /projects/self-perceived-superintelligent-llm
-image:                /assets/self-perceived-superintelligent-llm/thumbnail.png
+image:                /assets/self-perceived-superintelligent-llm/thumbnail.jpg
 image_desc:           "AI robot looking at neural network stylized brain"
 read_time:            
 project:              true

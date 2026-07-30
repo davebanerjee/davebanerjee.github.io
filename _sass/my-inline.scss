@@ -75,6 +75,10 @@ img.blog-post-img {
     padding: -20px;
     width: 150%;
     height: auto;
+    // Every post thumbnail is 3:2; declaring it reserves the box before the
+    // image loads so lazy-loaded cards don't shift the layout (CLS).
+    aspect-ratio: 3 / 2;
+    object-fit: cover;
     border-radius: 20px 20px 0px 0px;
 }
 
