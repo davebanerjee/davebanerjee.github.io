@@ -4,7 +4,7 @@ title:            About
 permalink:        /about
 ---
 
-My name is Dave Banerjee, and I am an associate researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://arxiv.org/abs/2606.00036) and extreme power concentration.
+My name is Dave Banerjee, and I am an associate researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://arxiv.org/abs/2606.00036) and [extreme power concentration](https://80000hours.org/problem-profiles/extreme-power-concentration/).
 
 Previously, I did the following stuff:
 
