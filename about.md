@@ -4,7 +4,7 @@ title:            About
 permalink:        /about
 ---
 
-My name is Dave Banerjee, and I am an associate researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://arxiv.org/abs/2606.00036) and [extreme power concentration](https://80000hours.org/problem-profiles/extreme-power-concentration/).
+My name is Dave Banerjee, and I am a Researcher at the [Institute for AI Policy and Strategy](https://www.iaps.ai/), where I research [AI security](https://arxiv.org/abs/2606.00036) and [extreme power concentration](https://80000hours.org/problem-profiles/extreme-power-concentration/).
 
 Previously, I did the following stuff:
 
@@ -14,26 +14,9 @@ Previously, I did the following stuff:
 - I was a security engineer at a hedge fund, where I did security things.
 - I graduated from Columbia University, where I studied computer science with a focus on cryptography, reverse engineering, and machine learning.
 
-If you would like to receive emails whenever I post: <a href="https://davebanerjee.substack.com/" style="text-decoration: none" class="shortcode-text-button__button" target="_blank">Subscribe Here!</a>
+If you would like to receive emails whenever I post: [Subscribe Here!](https://davebanerjee.substack.com/)
 
 — Dave
 
 ![Dave as a child running with balloons](/assets/dave running with balloons.JPG)
 
-<!-- ---
-
-<h1>Featured Posts</h1>
-
-<div class="grid-container">
-  {% for post in site.posts %}
-    {% if post.featured %}
-      <div class="blog-post" onclick="window.location='{{ post.url }}';">
-        <img class="blog-post-img" src="{{ post.image }}" alt="{{ post.image_desc }}">
-        <h3 class="featured-post-title">{{ post.title }}</h3>
-        <span class="featured-post-subtitle">{{ post.subtitle }}</span>
-        <span class="readable-date">{{ post.readable_date }}</span>
-        <span class="read-time">{{ post.read_time }} </span>
-      </div>
-    {% endif %}
-  {% endfor %}
-</div> -->
